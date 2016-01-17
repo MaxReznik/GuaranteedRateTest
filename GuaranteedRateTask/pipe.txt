@@ -1,0 +1,2 @@
+﻿Max|Reznik|Male|Blue|01/01/1983
+Alena|Reznik|Female|Red|01/02/1984
